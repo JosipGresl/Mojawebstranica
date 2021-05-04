@@ -1,0 +1,41 @@
+body{
+    background-color: #bbf1fa;
+    margin: 0px;
+    margin-left: 5px;
+}
+
+h1{
+    margin: 0;
+}
+.header{
+    background-color: #cfc5a5;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+
+}
+
+.header a {
+    background-color: #892cdc;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 30px;
+    transition: 0.2s;
+}
+.header a:hover{
+    background-color: green;
+}
+.glavno{
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.glavno img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 550px;
+}
